@@ -1,2 +1,7 @@
-# Config_RAID1-
-Este documento proporciona un paso a paso para configurar un RAID 1 y volúmenes lógicos (LVM) en un sistema Ubuntu Server. 
+# Config_RAID1
+Este archivo `README.md` proporciona una guía completa para la configuración y gestión de RAID 1 y LVM.
+
+
+
+
+
